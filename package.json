@@ -28,6 +28,7 @@
     "@angular/platform-browser-dynamic": "^18.0.0",
     "@angular/platform-server": "^18.0.0",
     "@angular/router": "^18.0.0",
+    "@fontsource/lato": "^5.0.21",
     "front-matter": "^4.0.2",
     "marked": "^5.0.2",
     "marked-gfm-heading-id": "^3.1.0",

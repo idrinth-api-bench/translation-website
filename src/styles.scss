@@ -10,9 +10,11 @@ $theme: mat.define-theme(
   )
 );
 
+@import '@fontsource/lato';
+
 body {
   @include mat.all-component-themes($theme);
-  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  font-family: 'Lato', sans-serif;
   margin: 0;
   padding: 30px;
   height: 100%;
